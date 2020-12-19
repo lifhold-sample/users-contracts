@@ -1,0 +1,16 @@
+{
+    "name": "lfhold-sample/users-contracts",
+    "authors": [
+        {
+            "name": "Lukasz Grajewski",
+            "email": "grajewski.lukasz@wp.pl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Lifhold\\Users\\Contracts\\": "src/"
+        }
+    },
+    "require": {
+    }
+}
