@@ -12,5 +12,8 @@
         }
     },
     "require": {
-    }
+        "lifhold-sample/users-exceptions": "dev-master"
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
 }
